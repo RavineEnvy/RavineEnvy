@@ -1,5 +1,5 @@
 <h1>Guilherme Freire Pires</h1>
-<a href="https://www.instagram.com/little_ravine/?next=%2F"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="50"></a><a href="https://x.com/EnvyRavine" hspace="20"><img src="https://www.imagemhost.com.br/images/2024/02/29/x-social-media-white-icon.png" width="50" hspace="25"></imh></a><br><br>
+<a href="https://www.instagram.com/little_ravine/?next=%2F"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="50"></a><a href="https://x.com/Little_Ravis" hspace="20"><img src="https://www.imagemhost.com.br/images/2024/02/29/x-social-media-white-icon.png" width="50" hspace="25"></imh></a><br><br>
 
 <h2>Olá, Devs!!</h2>
 <p>Tenho 25 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um futuro estudante de Engenharia de Software na FIAP (dando início em fevereiro de 2026), logo serei um grande descobridor de bugs, e quanto mais eu apanho para aprender, mais eu admiro essa área.🧐</p>
