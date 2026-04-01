@@ -18,4 +18,4 @@
 <p>🫆Tenho estudado Java com Spring + Angular para ingressar em uma nova área!</p>
 <p>🎮 Um grande amante do mundos dos Jogos. (Principalmente os bem difíceis)</p><br>
 
-<p>Você pode entrar em contato comigo através do meu <a href="https://www.instagram.com/little_ravine/?next=%2F">instagram</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
+<p>Você pode entrar em contato comigo através do meu <a href="https://www.linkedin.com/in/guilherme-freire-pires-587999202/">Linkedin</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
