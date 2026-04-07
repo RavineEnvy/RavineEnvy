@@ -3,7 +3,10 @@
 </a><br><br>
 
 <h2>Olá, Devs!!</h2>
-<p>Tenho 25 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um estudante de Engenharia de Software na FIAP, logo serei um grande descobridor de bugs, e quanto mais eu apanho para aprender, mais eu admiro essa área.🧐</p>
+<p>Tenho 25 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um estudante de Engenharia de Software na FIAP e logo serei um grande descobridor de bugs; Quanto mais eu apanho para aprender, mais eu admiro essa área.🧐
+
+ Também gostaria de destacar que sou apaixonado por tecnologia, programação e Hardware e busco oportunidades para aplicar e aprimorar minhas habilidades em novos projetos.🤓
+</p>
 <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="30%"><br>
 
 ## 🖥️ Tecnologias e Ferramentas:
@@ -12,10 +15,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png)
 <br><br>
 <h2>🛣️ Objetivos e Interesses:</h2>
 <p>🫆Tenho estudado Java com Spring + Angular para ingressar em uma nova área!</p>
+<p>💻 Amante do mundo dos Hardwares de computador.</p>
 <p>🎮 Um grande amante do mundos dos Jogos. (Principalmente os bem difíceis)</p><br>
 
 <p>Você pode entrar em contato comigo através do meu <a href="https://www.linkedin.com/in/guilherme-freire-pires-587999202/">Linkedin</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
