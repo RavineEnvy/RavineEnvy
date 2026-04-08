@@ -20,6 +20,6 @@
 <h2>🛣️ Objetivos e Interesses:</h2>
 <p>📓Tenho estudado Java com Spring + Angular (back-end) e Kotlin para ambiente Mobile!</p>
 <p>💻 Amante do mundo dos Hardwares de computador.</p>
-<p>🎮 Grande entusiasta do mundos dos Jogos. (Principalmente os bem difíceis)</p><br>
+<p>🎮 Grande entusiasta do mundo dos Jogos. (Principalmente os bem difíceis)</p><br>
 
 <p>Você pode entrar em contato comigo através do meu <a href="https://www.linkedin.com/in/guilherme-freire-pires-587999202/">Linkedin</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
