@@ -3,9 +3,9 @@
 </a><br><br>
 
 <h2>Olá, Devs!!</h2>
-<p>Tenho 25 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um estudante de Engenharia de Software na FIAP (Presencial/Noturno) e estudante de Análise e Desenvolvimento de Sistemas na Estácio (EAD) e logo serei um grande descobridor de bugs; Quanto mais eu apanho para aprender, mais eu admiro essa área.🧐
+<p>Tenho 25 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um estudante de Engenharia de Software na FIAP (Presencial/Noturno) e estudante de Análise e Desenvolvimento de Sistemas na Estácio (EAD) e logo serei um grande descobridor de bugs. Quanto mais eu apanho para aprender, mais eu admiro essa área.🤓
 
- Também gostaria de destacar que sou apaixonado por tecnologia, programação e Hardware e busco oportunidades para aplicar e aprimorar minhas habilidades em novos projetos.🤓
+ Também gostaria de destacar que sou apaixonado por tecnologia, programação e Hardware e busco oportunidades para aplicar e aprimorar minhas habilidades em novos projetos.🧐
 </p>
 <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="30%"><br>
 
