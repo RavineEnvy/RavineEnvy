@@ -3,11 +3,21 @@
 </a><br>
 
 <h2>Olá, Devs!!</h2>
-<p>Tenho 26 anos, moro em São Paulo/SP e adoro tecnologias de todos os tipos! Sou um estudante de Engenharia de Software na FIAP (Presencial/Noturno) e Formado em Análise e Desenvolvimento de Sistemas (EAD) e logo serei um grande descobridor de bugs. Quanto mais eu apanho para aprender, mais eu admiro essa área.🤓
+<p>Tenho 26 anos, moro em São Paulo/SP e gostaria de destacar que sou apaixonado por tecnologia, programação e Hardware e busco oportunidades para aplicar e aprimorar minhas habilidades em novos projetos!🧐 
 
- Também gostaria de destacar que sou apaixonado por tecnologia, programação e Hardware e busco oportunidades para aplicar e aprimorar minhas habilidades em novos projetos.🧐
-</p>
+ Sou um estudante de Engenharia de Software na FIAP (Presencial/Noturno) e Formado em Análise e Desenvolvimento de Sistemas (EAD). Quanto mais eu apanho para aprender, mais eu admiro essa área.🤓</p>
 <img src="https://i.pinimg.com/originals/f3/76/c7/f376c71d591d3ecc393c876eaa3d6d42.gif" width="30%"><br>
+
+
+
+<h2>🛣️ Objetivos e Interesses:</h2>
+<p>📓Tenho estudado Java com Spring + Angular (back-end) e Kotlin para ambiente Mobile!</p>
+<p>💻 Amante do mundo dos Hardwares de computador.</p>
+<p>🎮 Grande entusiasta do mundo dos Jogos. (Principalmente os bem difíceis)</p>
+
+---
+
+<br>
 
 ## 🖥️ Tecnologias e Ferramentas:
 
@@ -19,12 +29,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-<br><br>
-<h2>🛣️ Objetivos e Interesses:</h2>
-<p>📓Tenho estudado Java com Spring + Angular (back-end) e Kotlin para ambiente Mobile!</p>
-<p>💻 Amante do mundo dos Hardwares de computador.</p>
-<p>🎮 Grande entusiasta do mundo dos Jogos. (Principalmente os bem difíceis)</p><br>
+</div><br>
 
 <p>Você pode entrar em contato comigo através do meu <a href="https://www.linkedin.com/in/guilherme-freire-pires-587999202/">Linkedin</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
