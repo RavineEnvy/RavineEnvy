@@ -28,7 +28,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
 <p>Você pode entrar em contato comigo através do meu <a href="https://www.linkedin.com/in/guilherme-freire-pires-587999202/">Linkedin</a> ou do meu <a href="https://x.com/Little_Ravis">Twitter</a>. (Prometo que sou rápido na resposta😉)</p>
