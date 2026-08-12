@@ -11,7 +11,7 @@
 
 
 <h2>🛣️ Objetivos e Interesses:</h2>
-<p>📓Tenho estudado Java com Spring + Angular (back-end) e Kotlin para ambiente Mobile!</p>
+<p>📓Tenho estudado programação dinânica com Python!</p>
 <p>💻 Amante do mundo dos Hardwares de computador.</p>
 <p>🎮 Grande entusiasta do mundo dos Jogos. (Principalmente os bem difíceis)</p>
 
